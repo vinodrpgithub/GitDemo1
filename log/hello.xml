@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 <product>
 	<name>Hp laptop></name>
 	<price>55000</price>
 </product>
+=======
+<customer>
+	<name>Vinod</name>
+	<age>23</age>
+	<loc>Bng</loc>
+</customer>
+>>>>>>> br32
